@@ -180,6 +180,8 @@ python insert_data.py
 
 https://drive.google.com/file/d/1GddFWomub_BGbY0o_tfxct5WoHkBQV2j/view?usp=sharing
 
+---
+
 # Challenges Faced
 
 * Handling CORS issues between frontend and backend
